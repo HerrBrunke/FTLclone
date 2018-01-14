@@ -8,16 +8,52 @@ ModelImporter:
     100000: Cube
     100002: //RootNode
     100004: ShipWalls
+    100006: Laser1
+    100008: Rocket1
+    100010: ShipBody
+    100012: ShipEngine
+    100014: ShipSceneryBody
+    100016: ShipBottom
+    100018: PilotSeat
     400000: Cube
     400002: //RootNode
     400004: ShipWalls
+    400006: Laser1
+    400008: Rocket1
+    400010: ShipBody
+    400012: ShipEngine
+    400014: ShipSceneryBody
+    400016: ShipBottom
+    400018: PilotSeat
     2100000: Material
+    2100002: unnamed
     2300000: Cube
     2300002: ShipWalls
+    2300004: Laser1
+    2300006: Rocket1
+    2300008: ShipBody
+    2300010: ShipEngine
+    2300012: ShipSceneryBody
+    2300014: ShipBottom
+    2300016: PilotSeat
     3300000: Cube
     3300002: ShipWalls
+    3300004: Laser1
+    3300006: Rocket1
+    3300008: ShipBody
+    3300010: ShipEngine
+    3300012: ShipSceneryBody
+    3300014: ShipBottom
+    3300016: PilotSeat
     4300000: ShipWalls
     4300002: Cube
+    4300004: Rocket1
+    4300006: Laser1
+    4300008: ShipEngine
+    4300010: ShipSceneryBody
+    4300012: ShipBody
+    4300014: ShipBottom
+    4300016: PilotSeat
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
